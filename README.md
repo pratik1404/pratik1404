@@ -1,5 +1,6 @@
-## Hi there 👋
 
+<h1 align="center">Hi 👋, I'm Pratik Patil</h1>
+<h3 align="center">A passionate Data Analyst</h3>
 <!--
 **pratik1404/pratik1404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -27,9 +28,6 @@ Here are some ideas to get you started:
 </p>
 
 ---
-
-<h1 align="center">Hi 👋, I'm Pratik Patil</h1>
-<h3 align="center">A passionate Data Analyst</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pratik1404&label=Profile%20views&color=0e75b6&style=flat" alt="pratik1404" /> </p>
 
